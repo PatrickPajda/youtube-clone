@@ -5,4 +5,10 @@
   top: 55px;
   background-color: white;
   width: 72px;
+
+}
+
+.sidebar-link {
+  background-color: lightgray;
+  height: 50px;
 }
